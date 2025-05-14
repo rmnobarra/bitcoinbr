@@ -24,8 +24,8 @@ description: >-
   Mentoria bitcoinBR: Soberania Digital com Tails e Electrum.
   Aprenda a assumir o controle total e seguro dos seus satoshis com práticas
   avançadas de segurança digital.
-baseurl: ""
-url: "https://bitcoinbr.digital"
+baseurl: "/bitcoinbr"
+url: "https://rmnobarra.github.io"
 
 # Build settings
 theme: minima
@@ -35,7 +35,7 @@ plugins:
   - jekyll-sitemap
 
 # Production settings
-production_url: https://bitcoinbr.digital
+production_url: https://rmnobarra.github.io/bitcoinbr
 google_analytics: # Add your Google Analytics ID here if needed
 
 # Exclude from processing.
