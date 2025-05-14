@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: landing
-title: BitcoinBR Digital - Cursos de Bitcoin
+title: bitcoinBR - Cursos de Bitcoin
 ---
 
 <!-- Hero Section -->
@@ -11,8 +11,8 @@ title: BitcoinBR Digital - Cursos de Bitcoin
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <h1 class="display-4 fw-bold mb-4">BitcoinBR Digital</h1>
-                <p class="lead mb-4">Cursos práticos para você dominar o Bitcoin e assumir o controle dos seus satoshis.</p>
+                <h1 class="display-4 fw-bold mb-4">bitcoinBR</h1>
+                <p class="lead mb-4">Aprenda a dominar o Bitcoin com autonomia, segurança e zero intermediários. Cursos práticos para quem busca soberania financeira de verdade.</p>
             </div>
         </div>
     </div>
@@ -29,7 +29,7 @@ title: BitcoinBR Digital - Cursos de Bitcoin
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
                                 <h3 class="h4 mb-2">Soberania Digital com Tails e Electrum</h3>
-                                <p class="text-muted mb-3">Aprenda a assumir o controle total e seguro dos seus satoshis</p>
+                                <p class="text-muted mb-3">Aprenda a assumir o controle total e seguro dos seus bitcoins.</p>
                             </div>
                             <span class="badge bg-primary">Novo</span>
                         </div>
@@ -47,7 +47,7 @@ title: BitcoinBR Digital - Cursos de Bitcoin
                                 <span>Online</span>
                             </div>
                         </div>
-                        <p class="mb-4">Capacite-se para sair da corretora e assumir controle total e seguro de seus satoshis, utilizando o sistema Tails OS e a carteira Electrum, com práticas de segurança digital (OPSEC) embutidas.</p>
+                        <p class="mb-4">Capacite-se para sair da corretora e assumir controle total e seguro de seus bitcoins, utilizando o sistema Tails OS e a carteira Electrum, com práticas de segurança digital (OPSEC) embutidas.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/soberania-digital/" class="btn btn-outline-primary">Saiba Mais</a>
                             <a href="https://buy.stripe.com/aEU02M77G7vSgz6dQQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
@@ -130,6 +130,6 @@ title: BitcoinBR Digital - Cursos de Bitcoin
 <!-- Footer -->
 <footer class="py-4 bg-dark text-white">
     <div class="container text-center">
-        <p class="mb-0">© 2024 BitcoinBR Digital. Todos os direitos reservados.</p>
+        <p class="mb-0">© 2025 bitcoinBR. Todos os direitos reservados.</p>
     </div>
 </footer>

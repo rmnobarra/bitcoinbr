@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BitcoinBR Digital
-email: contato@bitcoinbr.digital
+title: bitcoinBR
+email: bitcoinbr.digital@proton.me
 description: >-
-  Mentoria BitcoinBR Digital: Soberania Digital com Tails e Electrum.
+  Mentoria bitcoinBR: Soberania Digital com Tails e Electrum.
   Aprenda a assumir o controle total e seguro dos seus satoshis com práticas
   avançadas de segurança digital.
 baseurl: ""
