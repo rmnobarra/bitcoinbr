@@ -12,7 +12,7 @@ title: bitcoinBR - Cursos de Bitcoin
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-4">bitcoinBR</h1>
-                <p class="lead mb-4">Aprenda a dominar o Bitcoin com autonomia, segurança e zero intermediários. Cursos práticos para quem busca soberania financeira de verdade.</p>
+                <p class="lead mb-4">Aprenda a dominar o Bitcoin com autonomia, segurança e zero intermediários. Mentoria  para quem busca soberania financeira de verdade.</p>
             </div>
         </div>
     </div>
