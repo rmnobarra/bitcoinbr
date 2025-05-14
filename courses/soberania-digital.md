@@ -166,6 +166,8 @@ permalink: /cursos/soberania-digital/
     <div class="container text-center">
         <h2 class="mb-4">Pronto para assumir o controle dos seus satoshis?</h2>
         <p class="lead mb-4">Garanta sua vaga na próxima turma e comece sua jornada rumo à soberania digital.</p>
-        <a href="#" class="btn btn-light btn-lg">Inscreva-se Agora</a>
+        <a href="https://buy.stripe.com/aEU02M77G7vSgz6dQQ" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-credit-card me-2"></i>Inscreva-se Agora
+        </a>
     </div>
 </section> 
