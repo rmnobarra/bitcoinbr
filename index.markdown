@@ -12,6 +12,9 @@ title: bitcoinBR - Cursos de Bitcoin
         <a href="/" class="btn btn-primary rounded-circle" title="Home">
             <i class="bi bi-house-fill"></i>
         </a>
+        <a href="/cursos/" class="btn btn-primary rounded-circle" title="Cursos">
+            <i class="bi bi-book-fill"></i>
+        </a>
         <a href="/contato" class="btn btn-primary rounded-circle" title="Contato">
             <i class="bi bi-envelope-fill"></i>
         </a>
@@ -27,7 +30,15 @@ title: bitcoinBR - Cursos de Bitcoin
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-4">bitcoinBR</h1>
-                <p class="lead mb-4">Aprenda a dominar o Bitcoin com autonomia, segurança e zero intermediários. Mentoria  para quem busca soberania financeira de verdade.</p>
+                <p class="lead mb-4">Aprenda a dominar o Bitcoin com autonomia, segurança e zero intermediários. Mentoria para quem busca soberania financeira de verdade.</p>
+                <div class="d-flex gap-3 justify-content-center">
+                    <a href="/cursos/" class="btn btn-light btn-lg">
+                        <i class="bi bi-book-fill me-2"></i>Ver Todos os Cursos
+                    </a>
+                    <a href="/cursos/primeiros-passos/" class="btn btn-outline-light btn-lg">
+                        <i class="bi bi-rocket-takeoff-fill me-2"></i>Começar Agora
+                    </a>
+                </div>
             </div>
         </div>
     </div>

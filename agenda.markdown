@@ -9,6 +9,9 @@ title: Agenda - bitcoinBR
         <a href="/" class="btn btn-primary rounded-circle" title="Home">
             <i class="bi bi-house-fill"></i>
         </a>
+        <a href="/cursos" class="btn btn-primary rounded-circle" title="Cursos">
+            <i class="bi bi-book-fill"></i>
+        </a>
         <a href="/contato" class="btn btn-primary rounded-circle" title="Contato">
             <i class="bi bi-envelope-fill"></i>
         </a>
