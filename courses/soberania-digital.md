@@ -26,6 +26,9 @@ permalink: /cursos/soberania-digital/
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-4">Soberania Digital com Tails e Electrum</h1>
                 <p class="lead mb-4">Aprenda a assumir o controle total e seguro dos seus satoshis com práticas avançadas de segurança digital.</p>
+                <a href="https://buy.stripe.com/aEU02M77G7vSgz6dQQ" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
+                    <i class="bi bi-credit-card me-2"></i>Inscreva-se Agora
+                </a>
             </div>
         </div>
     </div>
