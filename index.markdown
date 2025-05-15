@@ -143,6 +143,17 @@ title: bitcoinBR - Cursos de Bitcoin
     </div>
 </section>
 
+<!-- Calendar Section -->
+<section class="py-5">
+    <div class="container">
+        <h2 class="section-title text-center mb-4">Agende sua Mentoria</h2>
+        <p class="text-center mb-4">Escolha um horário que melhor se encaixe na sua agenda para sua mentoria personalizada.</p>
+        <!-- Google Calendar Appointment Scheduling begin -->
+        <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1hLfK5k-mV_IFx2SwqKiuhccC-tjKGjf9sWyH7RcAM_JUOTi_OHqWc9YqEkU5tF2BCLzJGQ7__?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+        <!-- end Google Calendar Appointment Scheduling -->
+    </div>
+</section>
+
 <!-- Footer -->
 <footer class="py-4 bg-dark text-white">
     <div class="container text-center">

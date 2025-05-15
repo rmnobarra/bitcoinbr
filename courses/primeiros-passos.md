@@ -11,10 +11,6 @@ permalink: /cursos/primeiros-passos/
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-4">Primeiros Passos com o Bitcoin</h1>
                 <p class="lead mb-4">Introdução ao universo do Bitcoin de forma simples, prática e consciente para iniciantes.</p>
-                <div class="d-flex gap-3">
-                    <a href="#inscricao" class="btn btn-light btn-lg">Inscreva-se Agora</a>
-                    <a href="#conteudo" class="btn btn-outline-light btn-lg">Saiba Mais</a>
-                </div>
             </div>
         </div>
     </div>
