@@ -6,6 +6,21 @@ layout: landing
 title: bitcoinBR - Cursos de Bitcoin
 ---
 
+<!-- Navigation Buttons -->
+<div class="position-fixed top-0 end-0 p-3" style="z-index: 1000;">
+    <div class="d-flex gap-2">
+        <a href="/" class="btn btn-primary rounded-circle" title="Home">
+            <i class="bi bi-house-fill"></i>
+        </a>
+        <a href="/contato" class="btn btn-primary rounded-circle" title="Contato">
+            <i class="bi bi-envelope-fill"></i>
+        </a>
+        <a href="/agenda" class="btn btn-primary rounded-circle" title="Agenda">
+            <i class="bi bi-calendar-check-fill"></i>
+        </a>
+    </div>
+</div>
+
 <!-- Hero Section -->
 <section class="hero">
     <div class="container">
@@ -36,7 +51,7 @@ title: bitcoinBR - Cursos de Bitcoin
                         <div class="d-flex gap-3 mb-4">
                             <div class="d-flex align-items-center">
                                 <i class="bi bi-clock text-primary me-2"></i>
-                                <span>4 horas</span>
+                                <span>3 horas</span>
                             </div>
                             <div class="d-flex align-items-center">
                                 <i class="bi bi-person-check text-primary me-2"></i>
@@ -140,17 +155,6 @@ title: bitcoinBR - Cursos de Bitcoin
             <a href="/cursos/primeiros-passos/" class="btn btn-light btn-lg">Para Iniciantes</a>
             <a href="/cursos/soberania-digital/" class="btn btn-outline-light btn-lg">Para Avançados</a>
         </div>
-    </div>
-</section>
-
-<!-- Calendar Section -->
-<section class="py-5">
-    <div class="container">
-        <h2 class="section-title text-center mb-4">Agende sua Mentoria</h2>
-        <p class="text-center mb-4">Escolha um horário que melhor se encaixe na sua agenda para sua mentoria personalizada.</p>
-        <!-- Google Calendar Appointment Scheduling begin -->
-        <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1hLfK5k-mV_IFx2SwqKiuhccC-tjKGjf9sWyH7RcAM_JUOTi_OHqWc9YqEkU5tF2BCLzJGQ7__?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-        <!-- end Google Calendar Appointment Scheduling -->
     </div>
 </section>
 

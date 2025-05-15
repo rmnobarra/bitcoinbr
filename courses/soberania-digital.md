@@ -1,8 +1,23 @@
 ---
 layout: landing
-title: Soberania Digital com Tails e Electrum
+title: Soberania Digital com Tails e Electrum - bitcoinBR
 permalink: /cursos/soberania-digital/
 ---
+
+<!-- Navigation Buttons -->
+<div class="position-fixed top-0 end-0 p-3" style="z-index: 1000;">
+    <div class="d-flex gap-2">
+        <a href="/" class="btn btn-primary rounded-circle" title="Home">
+            <i class="bi bi-house-fill"></i>
+        </a>
+        <a href="/contato" class="btn btn-primary rounded-circle" title="Contato">
+            <i class="bi bi-envelope-fill"></i>
+        </a>
+        <a href="/agenda" class="btn btn-primary rounded-circle" title="Agenda">
+            <i class="bi bi-calendar-check-fill"></i>
+        </a>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="hero">
@@ -34,7 +49,7 @@ permalink: /cursos/soberania-digital/
                     <div class="card-body text-center">
                         <i class="bi bi-clock display-4 text-primary mb-3"></i>
                         <h5>Duração</h5>
-                        <p class="mb-0">4 horas de conteúdo prático</p>
+                        <p class="mb-0">3 horas de conteúdo prático</p>
                     </div>
                 </div>
             </div>

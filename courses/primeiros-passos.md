@@ -1,8 +1,23 @@
 ---
 layout: landing
-title: Primeiros Passos com o Bitcoin
+title: Primeiros Passos com o Bitcoin - bitcoinBR
 permalink: /cursos/primeiros-passos/
 ---
+
+<!-- Navigation Buttons -->
+<div class="position-fixed top-0 end-0 p-3" style="z-index: 1000;">
+    <div class="d-flex gap-2">
+        <a href="/" class="btn btn-primary rounded-circle" title="Home">
+            <i class="bi bi-house-fill"></i>
+        </a>
+        <a href="/contato" class="btn btn-primary rounded-circle" title="Contato">
+            <i class="bi bi-envelope-fill"></i>
+        </a>
+        <a href="/agenda" class="btn btn-primary rounded-circle" title="Agenda">
+            <i class="bi bi-calendar-check-fill"></i>
+        </a>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="hero">
