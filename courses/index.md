@@ -64,7 +64,7 @@ permalink: /cursos/
                         <p class="mb-4">Introdução prática ao Bitcoin: fundamentos econômicos, tecnológicos, primeira compra e conceitos iniciais de segurança digital para quem está começando.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/primeiros-passos/" class="btn btn-outline-primary">Saiba Mais</a>
-                            <a href="https://buy.stripe.com/8wM16Q4Zy9E04Qo7su" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                            <a href="https://buy.stripe.com/9B628r3N35vjg4N8G8gMw03" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i class="bi bi-credit-card me-2"></i>Inscreva-se
                             </a>
                         </div>
@@ -100,7 +100,7 @@ permalink: /cursos/
                         <p class="mb-4">Capacite-se para sair da corretora e assumir controle total e seguro de seus bitcoins, utilizando o sistema Tails OS e a carteira Electrum, com práticas de segurança digital (OPSEC) embutidas.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/soberania-digital/" class="btn btn-outline-primary">Saiba Mais</a>
-                            <a href="https://buy.stripe.com/aEU02M77G7vSgz6dQQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                            <a href="https://buy.stripe.com/aFacN5bfv8Hv19T5tWgMw04" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i class="bi bi-credit-card me-2"></i>Inscreva-se
                             </a>
                         </div>
