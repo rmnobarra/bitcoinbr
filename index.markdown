@@ -198,10 +198,17 @@ title: bitcoinBR - Cursos de Bitcoin
 <section class="py-5 bg-primary text-white">
     <div class="container text-center">
         <h2 class="mb-4">Comece sua jornada no Bitcoin hoje</h2>
-        <p class="lead mb-4">Escolha um dos nossos cursos e comece a trilhar seu caminho rumo à soberania digital.</p>
-        <div class="d-flex justify-content-center gap-3">
-            <a href="/cursos/primeiros-passos/" class="btn btn-light btn-lg">Para Iniciantes</a>
-            <a href="/cursos/soberania-digital/" class="btn btn-outline-light btn-lg">Para Avançados</a>
+        <p class="lead mb-4">Escolha o curso ideal para o seu nível de conhecimento e comece a trilhar seu caminho rumo à soberania digital.</p>
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+            <a href="/cursos/primeiros-passos/" class="btn btn-light btn-lg">
+                <i class="bi bi-1-circle me-2"></i>Para Iniciantes
+            </a>
+            <a href="/cursos/soberania-digital/" class="btn btn-light btn-lg">
+                <i class="bi bi-2-circle me-2"></i>Para Intermediários
+            </a>
+            <a href="/cursos/mestre-autocustodia/" class="btn btn-light btn-lg">
+                <i class="bi bi-3-circle me-2"></i>Para Avançados
+            </a>
         </div>
     </div>
 </section>
