@@ -158,6 +158,97 @@ title: bitcoinBR - Cursos de Bitcoin
     </div>
 </section>
 
+<!-- Manifesto Section -->
+<section class="py-5 bg-dark text-white">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="text-center mb-5">
+                    <h2 class="display-4 fw-bold mb-3">Liberdade, Verdade e Autocustódia</h2>
+                    <div class="divider mx-auto"></div>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <div class="manifesto-card p-4 h-100">
+                            <div class="d-flex align-items-start mb-3">
+                                <i class="bi bi-shield-check text-primary fs-1 me-3"></i>
+                                <div>
+                                    <h3 class="h4 mb-3">Liberdade Financeira</h3>
+                                    <p class="mb-0">Acreditamos que a liberdade financeira é o primeiro passo para a verdadeira prosperidade.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="manifesto-card p-4 h-100">
+                            <div class="d-flex align-items-start mb-3">
+                                <i class="bi bi-key text-primary fs-1 me-3"></i>
+                                <div>
+                                    <h3 class="h4 mb-3">Autocustódia</h3>
+                                    <p class="mb-0">Não é só sobre armazenar criptomoedas, é sobre proteger aquilo que é fruto do seu suor, da sua inteligência e dos seus princípios.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="manifesto-card p-4 h-100">
+                            <div class="d-flex align-items-start mb-3">
+                                <i class="bi bi-check-circle text-primary fs-1 me-3"></i>
+                                <div>
+                                    <h3 class="h4 mb-3">Prática Real</h3>
+                                    <p class="mb-0">Nossas mentorias não são teoria. Elas são o reflexo de um setup real, funcional e soberano, aplicado todos os dias por quem vive o que ensina.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="manifesto-card p-4 h-100">
+                            <div class="d-flex align-items-start mb-3">
+                                <i class="bi bi-lightning text-primary fs-1 me-3"></i>
+                                <div>
+                                    <h3 class="h4 mb-3">Verdades Testadas</h3>
+                                    <p class="mb-0">Aqui, não seguimos tendências. Seguimos verdades testadas na prática.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-5">
+                    <div class="manifesto-highlight p-4 rounded">
+                        <p class="display-6 fw-bold text-primary mb-3">Porque enquanto o Estado imprime, nós protegemos.</p>
+                        <p class="lead mb-0">Sem chefes. Sem intermediários. Sem permissão.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+.manifesto-card {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1rem;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.manifesto-card:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.manifesto-highlight {
+    background: rgba(var(--bs-primary-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-primary-rgb), 0.2);
+}
+
+.divider {
+    width: 100px;
+    height: 4px;
+    background: var(--bs-primary);
+    border-radius: 2px;
+}
+</style>
+
 <!-- Why Choose Us Section -->
 <section class="py-5 bg-light">
     <div class="container">
