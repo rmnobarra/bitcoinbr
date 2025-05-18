@@ -36,13 +36,49 @@ permalink: /cursos/
     <div class="container">
         <h2 class="section-title">Nossos Cursos</h2>
         <div class="row g-4">
+            <!-- Mestre da Autocustódia -->
+            <div class="col-lg-6">
+                <div class="card feature-card h-100">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start mb-3">
+                            <div>
+                                <h3 class="h4 mb-2">Mestre da Autocustódia</h3>
+                                <p class="text-muted mb-3">Privacidade, Segurança e Estratégias de Ofuscamento.</p>
+                            </div>
+                            <span class="badge bg-danger">Avançado</span>
+                        </div>
+                        <div class="d-flex gap-3 mb-4">
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-clock text-primary me-2"></i>
+                                <span>4 horas</span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-person-check text-primary me-2"></i>
+                                <span>Individual</span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-laptop text-primary me-2"></i>
+                                <span>Online</span>
+                            </div>
+                        </div>
+                        <p class="mb-4">Aprenda técnicas avançadas de ofuscamento em transações Bitcoin, tanto on-chain quanto via Lightning Network, além de estratégias para compra e venda sem KYC utilizando ferramentas como Bisq, RoboSats e Revolut.</p>
+                        <div class="d-flex gap-2">
+                            <a href="/cursos/mestre-autocustodia/" class="btn btn-outline-primary">Saiba Mais</a>
+                            <a href="#" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                                <i class="bi bi-credit-card me-2"></i>Inscreva-se
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <!-- Primeiros Passos -->
             <div class="col-lg-6">
                 <div class="card feature-card h-100">
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
-                                <h3 class="h4 mb-2">Primeiros Passos com o Bitcoin</h3>
+                                <h3 class="h4 mb-2">Primeiros Passos com Bitcoin: A Porta de Saída do Sistema Tradicional</h3>
                                 <p class="text-muted mb-3">Introdução ao universo do Bitcoin para iniciantes.</p>
                             </div>
                             <span class="badge bg-primary">Iniciante</span>
@@ -78,10 +114,10 @@ permalink: /cursos/
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
-                                <h3 class="h4 mb-2">Soberania Digital com Tails e Electrum</h3>
+                                <h3 class="h4 mb-2">Bitcoin e Soberania Digital: Controle Real sobre Seu Patrimônio</h3>
                                 <p class="text-muted mb-3">Aprenda a assumir o controle total e seguro dos seus bitcoins.</p>
                             </div>
-                            <span class="badge bg-warning text-dark">Avançado</span>
+                            <span class="badge bg-info text-dark">Intermediário</span>
                         </div>
                         <div class="d-flex gap-3 mb-4">
                             <div class="d-flex align-items-center">
@@ -130,19 +166,30 @@ permalink: /cursos/
                                 </div>
                             </div>
                             <div>
-                                <h5>Primeiros Passos com o Bitcoin</h5>
+                                <h5>Primeiros Passos com Bitcoin: A Porta de Saída do Sistema Tradicional</h5>
                                 <p class="text-muted">Ideal para quem está começando sua jornada no Bitcoin. Aprenda os fundamentos e faça sua primeira compra.</p>
                             </div>
                         </div>
-                        <div class="d-flex">
+                        <div class="d-flex mb-4">
                             <div class="me-4">
-                                <div class="bg-warning rounded-circle d-flex align-items-center justify-content-center text-dark" style="width: 50px; height: 50px;">
+                                <div class="bg-info rounded-circle d-flex align-items-center justify-content-center text-dark" style="width: 50px; height: 50px;">
                                     <span class="fw-bold">2</span>
                                 </div>
                             </div>
                             <div>
-                                <h5>Soberania Digital com Tails e Electrum</h5>
+                                <h5>Bitcoin e Soberania Digital: Controle Real sobre Seu Patrimônio</h5>
                                 <p class="text-muted">Após entender os conceitos básicos, avance para técnicas de autocustódia segura e práticas OPSEC.</p>
+                            </div>
+                        </div>
+                        <div class="d-flex">
+                            <div class="me-4">
+                                <div class="bg-danger rounded-circle d-flex align-items-center justify-content-center text-white" style="width: 50px; height: 50px;">
+                                    <span class="fw-bold">3</span>
+                                </div>
+                            </div>
+                            <div>
+                                <h5>Mestre da Autocustódia</h5>
+                                <p class="text-muted">Domine técnicas avançadas de privacidade, ofuscamento e estratégias sem KYC para sua soberania digital.</p>
                             </div>
                         </div>
                     </div>
@@ -167,7 +214,7 @@ permalink: /cursos/
                         </h3>
                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#courseFAQ">
                             <div class="accordion-body">
-                                Se você é iniciante no universo Bitcoin, recomendamos começar pelo curso <strong>Primeiros Passos com o Bitcoin</strong>. Para quem já possui conhecimentos básicos e quer aprender sobre autocustódia segura, o curso <strong>Soberania Digital</strong> é o mais indicado.
+                                Se você é iniciante no universo Bitcoin, recomendamos começar pelo curso <strong>Primeiros Passos com Bitcoin: A Porta de Saída do Sistema Tradicional</strong>. Para quem já possui conhecimentos básicos e quer aprender sobre autocustódia segura, o curso <strong>Bitcoin e Soberania Digital: Controle Real sobre Seu Patrimônio</strong> é o mais indicado.
                             </div>
                         </div>
                     </div>
@@ -193,7 +240,7 @@ permalink: /cursos/
                         </h3>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#courseFAQ">
                             <div class="accordion-body">
-                                Não é necessário ter conhecimentos técnicos prévios para o curso <strong>Primeiros Passos</strong>. Para o curso <strong>Soberania Digital</strong>, um conhecimento básico de Bitcoin é recomendado, mas não obrigatório, pois explicamos tudo passo a passo.
+                                Não é necessário ter conhecimentos técnicos prévios para o curso <strong>Primeiros Passos</strong>. Para o curso <strong>Bitcoin e Soberania Digital: Controle Real sobre Seu Patrimônio</strong>, um conhecimento básico de Bitcoin é recomendado, mas não obrigatório, pois explicamos tudo passo a passo.
                             </div>
                         </div>
                     </div>

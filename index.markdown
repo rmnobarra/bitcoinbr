@@ -49,13 +49,47 @@ title: bitcoinBR - Cursos de Bitcoin
     <div class="container">
         <h2 class="section-title">Cursos em Destaque</h2>
         <div class="row g-4">
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <div class="card feature-card h-100">
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
-                                <h3 class="h4 mb-2">Soberania Digital com Tails e Electrum</h3>
-                                <p class="text-muted mb-3">Aprenda a assumir o controle total e seguro dos seus bitcoins.</p>
+                                <h3 class="h4 mb-2">Mestre da Autocustódia: </h3>
+                                <p class="text-muted mb-3">Privacidade, Segurança e Estratégias de Ofuscamento.</p>
+                            </div>
+                            <span class="badge bg-primary">Novo</span>
+                        </div>
+                        <div class="d-flex gap-3 mb-4">
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-clock text-primary me-2"></i>
+                                <span>4 horas</span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-person-check text-primary me-2"></i>
+                                <span>Individual</span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <i class="bi bi-laptop text-primary me-2"></i>
+                                <span>Online</span>
+                            </div>
+                        </div>
+                        <p class="mb-4">Aprenda técnicas avançadas de ofuscamento em transações Bitcoin, tanto on-chain quanto via Lightning Network, além de estratégias para compra e venda sem KYC utilizando ferramentas como Bisq, RoboSats e Revolut.</p>
+                        <div class="d-flex gap-2">
+                            <a href="/cursos/mestre-autocustodia/" class="btn btn-outline-primary">Saiba Mais</a>
+                            <a href="#" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                                <i class="bi bi-credit-card me-2"></i>Inscreva-se
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start mb-3">
+                            <div>
+                                <h3 class="h4 mb-2">Bitcoin e Soberania Digital: Controle Real sobre Seu Patrimônio</h3>
+                                <p class="text-muted mb-3">Aprenda a assumir o controle total e seguro dos seus satoshis.</p>
                             </div>
                             <span class="badge bg-primary">Novo</span>
                         </div>
@@ -73,7 +107,7 @@ title: bitcoinBR - Cursos de Bitcoin
                                 <span>Online</span>
                             </div>
                         </div>
-                        <p class="mb-4">Capacite-se para sair da corretora e assumir controle total e seguro de seus bitcoins, utilizando o sistema Tails OS e a carteira Electrum, com práticas de segurança digital (OPSEC) embutidas.</p>
+                        <p class="mb-4">Aprenda práticas avançadas de segurança digital com Tails OS e Electrum para garantir total controle sobre seus bitcoins, sem depender de intermediários.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/soberania-digital/" class="btn btn-outline-primary">Saiba Mais</a>
                             <a href="https://buy.stripe.com/fZu28rdnD4rfcSBg8AgMw06" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
@@ -83,12 +117,12 @@ title: bitcoinBR - Cursos de Bitcoin
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <div class="card feature-card h-100">
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
-                                <h3 class="h4 mb-2">Primeiros Passos com o Bitcoin</h3>
+                                <h3 class="h4 mb-2">Primeiros Passos com Bitcoin: A Porta de Saída do Sistema Tradicional</h3>
                                 <p class="text-muted mb-3">Introdução ao universo do Bitcoin para iniciantes.</p>
                             </div>
                             <span class="badge bg-primary">Novo</span>
