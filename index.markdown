@@ -21,6 +21,9 @@ title: bitcoinBR - Cursos de Bitcoin
         <a href="/agenda" class="btn btn-primary rounded-circle" title="Agenda">
             <i class="bi bi-calendar-check-fill"></i>
         </a>
+        <a href="https://wa.me/5511930501186?text=" class="btn btn-primary rounded-circle" title="WhatsApp" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-whatsapp"></i>
+        </a>
     </div>
 </div>
 
