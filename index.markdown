@@ -57,8 +57,8 @@ title: bitcoinBR - Cursos de Bitcoin
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-3">
                             <div>
-                                <h3 class="h4 mb-2">Mestre da Autocustódia: </h3>
-                                <p class="text-muted mb-3">Privacidade, Segurança e Estratégias de Ofuscamento.</p>
+                                <h3 class="h4 mb-2">Mestre da Autocustódia: Privacidade, Segurança e Estratégias de Ofuscamento</h3>
+                                <p class="text-muted mb-3">Tenha total controle do seu nível de exposição ao negociar criptoativos, escolha como, onde e se será visto.</p>
                             </div>
                             <span class="badge bg-primary">Novo</span>
                         </div>
