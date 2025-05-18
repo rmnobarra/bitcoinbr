@@ -24,8 +24,8 @@ permalink: /cursos/mestre-autocustodia/
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <h1 class="display-4 fw-bold mb-4">Mestre da Autocustódia</h1>
-                <p class="lead mb-4">Privacidade, Segurança e Estratégias de Ofuscamento para sua soberania digital.</p>
+                <h1 class="display-4 fw-bold mb-4">Mestre da Autocustódia: Privacidade, Segurança e Estratégias de Ofuscamento</h1>
+                <p class="lead mb-4">Tenha total controle do seu nível de exposição ao negociar criptoativos, escolha como, onde e se será visto.</p>
                 <a href="#" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-credit-card me-2"></i>Inscreva-se Agora
                 </a>
