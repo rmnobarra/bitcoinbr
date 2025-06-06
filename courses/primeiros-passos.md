@@ -26,7 +26,7 @@ permalink: /cursos/primeiros-passos/
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-4">Primeiros Passos com o Bitcoin: A Porta de Saída do Sistema Tradicional</h1>
                 <p class="lead mb-4">Introdução ao universo do Bitcoin de forma simples, prática e consciente para iniciantes.</p>
-                <a href="https://buy.stripe.com/14A4gzabr3nb05P2hKgMw05" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
+                <a href="https://pay.kiwify.com.br/eELr40t" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-credit-card me-2"></i>Inscreva-se Agora
                 </a>
             </div>
@@ -213,7 +213,7 @@ permalink: /cursos/primeiros-passos/
     <div class="container text-center">
         <h2 class="mb-4">Pronto para dar seus primeiros passos com Bitcoin?</h2>
         <p class="lead mb-4">Inicie sua jornada na soberania financeira com conhecimento sólido e prático.</p>
-        <a href="https://buy.stripe.com/14A4gzabr3nb05P2hKgMw05" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
+        <a href="https://pay.kiwify.com.br/eELr40t" class="btn btn-light btn-lg" target="_blank" rel="noopener noreferrer">
             <i class="bi bi-credit-card me-2"></i>Inscreva-se Agora
         </a>
     </div>

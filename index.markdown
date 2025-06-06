@@ -113,7 +113,7 @@ title: bitcoinBR - Cursos de Bitcoin
                         <p class="mb-4">Aprenda práticas avançadas de segurança digital com Tails OS e Electrum para garantir total controle sobre seus bitcoins, sem depender de intermediários.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/soberania-digital/" class="btn btn-outline-primary">Saiba Mais</a>
-                            <a href="https://buy.stripe.com/fZu28rdnD4rfcSBg8AgMw06" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                            <a href="https://pay.kiwify.com.br/muDY1bX" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i class="bi bi-credit-card me-2"></i>Inscreva-se
                             </a>
                         </div>
@@ -147,7 +147,7 @@ title: bitcoinBR - Cursos de Bitcoin
                         <p class="mb-4">Introdução prática ao Bitcoin: fundamentos econômicos, tecnológicos, primeira compra e conceitos iniciais de segurança digital para quem está começando.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/primeiros-passos/" class="btn btn-outline-primary">Saiba Mais</a>
-                            <a href="https://buy.stripe.com/14A4gzabr3nb05P2hKgMw05" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                            <a href="https://pay.kiwify.com.br/eELr40t" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i class="bi bi-credit-card me-2"></i>Inscreva-se
                             </a>
                         </div>
