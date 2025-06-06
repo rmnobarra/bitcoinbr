@@ -79,7 +79,7 @@ title: bitcoinBR - Cursos de Bitcoin
                         <p class="mb-4">Aprenda técnicas avançadas de ofuscamento em transações Bitcoin, tanto on-chain quanto via Lightning Network, além de estratégias para compra e venda sem KYC utilizando ferramentas como Bisq, RoboSats e Revolut.</p>
                         <div class="d-flex gap-2">
                             <a href="/cursos/mestre-autocustodia/" class="btn btn-outline-primary">Saiba Mais</a>
-                            <a href="#" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                            <a href="https://pay.kiwify.com.br/JhIXM92" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i class="bi bi-credit-card me-2"></i>Inscreva-se
                             </a>
                         </div>
