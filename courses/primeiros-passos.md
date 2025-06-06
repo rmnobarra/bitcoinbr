@@ -200,7 +200,7 @@ permalink: /cursos/primeiros-passos/
                     <div class="card-body text-center">
                         <i class="bi bi-cash-coin display-4 text-primary mb-3"></i>
                         <h5>Valor Inicial</h5>
-                        <p>R$ 10-50 para primeira compra</p>
+                        <p>R$ 50-100 para primeira compra</p>
                     </div>
                 </div>
             </div>
